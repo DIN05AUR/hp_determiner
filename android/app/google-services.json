@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385522470638",
+    "project_id": "hpdeterminer",
+    "storage_bucket": "hpdeterminer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385522470638:android:0e8e0f640a7dbb9e842dff",
+        "android_client_info": {
+          "package_name": "com.example.hpdeterminer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385522470638-1peo1fq4gsmgbr8012i61mpgumtoss5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAu_ZWDd0K2FOpvt1uwnVn3eZo0bXBmcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385522470638-1peo1fq4gsmgbr8012i61mpgumtoss5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
