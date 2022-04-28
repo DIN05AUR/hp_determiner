@@ -207,6 +207,7 @@ class _loginState extends State<login> {
                     margin: EdgeInsets.only(top: 5.0),
                     alignment: Alignment.center,
                     child: TextFormField(
+                      keyboardType: TextInputType.emailAddress,
                       cursorColor: Colors.red,
                       controller:emailController,
                       decoration: InputDecoration(
