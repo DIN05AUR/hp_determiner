@@ -1,6 +1,9 @@
 # hpdeterminer
 
-Once again a real copy of real hp project (letstry), biut with the integration of firebase authentication
+This is the pure original work of SAURABH GUPTA.
+This project is totally developed in Flutter & DART.
+This took me almost 7 - 8 months of 8 hours daily in order to develop this while still learning android dev for the first time.
+it was completed in FEBRUARY 2022
 
 ## Getting Started
 
